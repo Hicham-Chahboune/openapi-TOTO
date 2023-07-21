@@ -78,7 +78,7 @@
       },
       "post": {
         "description": "Creates a new pet in the store.  Duplicates are allowed",
-        "operationId": "addTITI",
+        "operationId": "addPet",
         "requestBody": {
           "description": "Pet to add to the store",
           "required": true,
